@@ -7,11 +7,10 @@ import random
 
 #main menu
 I=U.InputMenu("""
-/t\\
-|b|
+/p\\
+|t|
 \\b/
-Text Based Bois
-Indepentant member project
+Python Text Bois
 ""","[N]ew game\n[I]mport\n\n")
 
 #Overwrites save with template
