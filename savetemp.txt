@@ -1,0 +1,28 @@
+............
+............
+............
+............
+.....@......
+............
+............
+............
+------------
+MATERIALS:
+Wood (+0): 4
+Metal (+0): 0
+Evidence: 0
+Reputation: 0
+------------
+BUILDINGS:
+@ Base - Eveything is linked to here one way or another. Unbuildable
+= Road - Most everything has to be connected to road. 1 Wood.
+~ Wired Road - Has road and wire capabilities. 2 Metal, 2 Wood.
+- Wire - Any component not connected by road is by wire. Free!
+l Lab - Makes 1 evidence into 1 reputation a turn. 2 Metal.
+d Observatory - Makes 1 evidence if the Discovery event happens. 2 Metal.
+* Mine - Makes 1 metal a turn. 4 Wood.
+^ Trees - You can build over them, but they will not come back if you do so. 1 Reputation.
+y Carpenter - Makes 1 wood a turn if built next to any flat side of a tree. Free!
+------------
+EVENTS:
+Discovery: 1/100 of happening.
